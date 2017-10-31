@@ -5,3 +5,5 @@ Este trabajo pretende llevar paso por paso el proceso de identificacion de objet
 
 ## Generación de datos
 Uno de de los puntos mas importantes al momento de querer entrenar una red neuronal de cualquier tipo, es tener la cantidad adecuada de datos para los respectivos *datos de entrenamiento* y *datos de prueba*. En dado caso no se cuenten con los suficientes datos, se pueden generar datos sintéticos. En este caso se esta trabajando con imagenes que contengan botellas de cerveza, por lo tanto manipularemos imagenes de este tipo para generar muchas imagenes a partir de un conjunto relativamente pequeño.
+
+[Generado de imagenes](https://github.com/abmorenoc/Deteccion-de-objetos-en-imagenes/blob/master/Generado_Imagenes/.ipynb_checkpoints/GI-checkpoint.ipynb)
