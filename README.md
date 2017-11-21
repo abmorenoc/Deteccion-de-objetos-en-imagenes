@@ -5,13 +5,13 @@ Este trabajo pretende llevar paso por paso el proceso de identificacion de objet
 
 ## Instalación
 La API de tensorflow utiliza las siguientes librerias:
-*Protobuf 2.6
-*Pillow 1.0
-*Lxml
-*Tf slim
-*Jupiter notebook
-*Matplotlib
-*Tensorflow
+-Protobuf 2.6
+-Pillow 1.0
+-Lxml
+-Tf slim
+-Jupiter notebook
+-Matplotlib
+-Tensorflow
 
 [Instalacion](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/installation.md) <- entrar aqui en caso de requerir informacion mas detallada.
 
@@ -63,7 +63,7 @@ tensorboard --logdir='training'
 ```
 
 Mi grafica de perdida fue la siguiente:
-![Grafica](Imagenes/Tensorboard)
+![Grafica](Imagenes/Tensorboard.png)
 
 
 ## Resultados
@@ -74,11 +74,13 @@ Los resultados en general fueron buenos, por ejemplo:
 ![Imagen4](Imagenes/image7.jpg)
 ![Imagen5](Imagenes/image8.jpg)
 
-Reconocio un bote de indio:
+Reconocio un bote de indio:                                        .
  ![Imagen6](Imagenes/indio5.jpg)
 
 En otras ocaciones no identifico todos los objetos de la imagen, por ejemplo:
+
 ![Imagen7](Imagenes/indio6.jpg)
 
-Y algunos resultados raros como:
+Y algunos resultados raros como:                                   .
+
 ![Imagen7](Imagenes/image9.jpg)
