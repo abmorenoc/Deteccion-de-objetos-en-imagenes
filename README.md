@@ -77,6 +77,9 @@ Los resultados en general fueron buenos, por ejemplo:
 Para la cerveza indio reconoce tanto botellas como botes :                                        
  ![Imagen6](Imagenes/indio5.jpg)
 
+ Varias cervezas juntas en una imagen:                                        
+  ![Imagen10](Imagenes/varias1.jpg)
+
 En otras ocaciones no identifico todos los objetos de la imagen, por ejemplo:
 
 ![Imagen7](Imagenes/indio6.jpg)
